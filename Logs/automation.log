@@ -262,3 +262,111 @@
 22:32:25.031 [main] INFO  stepDefinition.Steps - User clicks on login
 22:32:25.377 [main] INFO  stepDefinition.Steps - user logged in myacct page 
 22:32:25.918 [main] INFO  stepDefinition.Steps - valid assertion 
+23:00:48.836 [main] INFO  stepDefinition.Steps - url Launched
+23:00:49.101 [main] INFO  stepDefinition.Steps - User navigates to my accountant menu
+23:00:49.984 [main] INFO  stepDefinition.Steps - User clicks on login
+23:00:52.175 [main] INFO  stepDefinition.Steps - user logged in myacct page 
+23:01:07.237 [main] INFO  stepDefinition.Steps - in valid assertion 
+23:01:13.338 [main] INFO  stepDefinition.Steps - url Launched
+23:01:13.520 [main] INFO  stepDefinition.Steps - User navigates to my accountant menu
+23:01:14.394 [main] INFO  stepDefinition.Steps - User clicks on login
+23:01:14.969 [main] INFO  stepDefinition.Steps - user logged in myacct page 
+23:01:30.004 [main] INFO  stepDefinition.Steps - in valid assertion 
+23:01:34.095 [main] INFO  stepDefinition.Steps - url Launched
+23:01:34.270 [main] INFO  stepDefinition.Steps - User navigates to my accountant menu
+23:01:35.157 [main] INFO  stepDefinition.Steps - User clicks on login
+23:01:35.735 [main] INFO  stepDefinition.Steps - user logged in myacct page 
+23:01:36.672 [main] INFO  stepDefinition.Steps - valid assertion 
+23:01:40.627 [main] INFO  stepDefinition.Steps - url Launched
+23:01:40.812 [main] INFO  stepDefinition.Steps - User navigates to my accountant menu
+23:01:41.612 [main] INFO  stepDefinition.Steps - User clicks on login
+23:01:41.987 [main] INFO  stepDefinition.Steps - User provides email as {string} and Password as {string}
+23:01:46.868 [main] INFO  stepDefinition.Steps - url Launched
+23:01:47.033 [main] INFO  stepDefinition.Steps - User navigates to my accountant menu
+23:01:47.846 [main] INFO  stepDefinition.Steps - User clicks on login
+23:01:48.259 [main] INFO  stepDefinition.Steps - User provides email as {string} and Password as {string}
+23:02:08.000 [main] INFO  stepDefinition.Steps - url Launched
+23:02:08.160 [main] INFO  stepDefinition.Steps - User navigates to my accountant menu
+23:02:08.966 [main] INFO  stepDefinition.Steps - User clicks on login
+23:02:09.352 [main] INFO  stepDefinition.Steps - User provides email as {string} and Password as {string}
+23:24:21.721 [main] INFO  stepDefinition.Steps - url Launched
+23:24:22.049 [main] INFO  stepDefinition.Steps - User navigates to my accountant menu
+23:24:22.791 [main] INFO  stepDefinition.Steps - User clicks on login
+23:24:24.644 [main] INFO  stepDefinition.Steps - user logged in myacct page 
+23:24:39.719 [main] INFO  stepDefinition.Steps - in valid assertion 
+23:24:43.403 [main] INFO  stepDefinition.Steps - url Launched
+23:24:43.590 [main] INFO  stepDefinition.Steps - User navigates to my accountant menu
+23:24:44.446 [main] INFO  stepDefinition.Steps - User clicks on login
+23:24:44.958 [main] INFO  stepDefinition.Steps - user logged in myacct page 
+23:25:00.055 [main] INFO  stepDefinition.Steps - in valid assertion 
+23:25:04.641 [main] INFO  stepDefinition.Steps - url Launched
+23:25:04.822 [main] INFO  stepDefinition.Steps - User navigates to my accountant menu
+23:25:05.624 [main] INFO  stepDefinition.Steps - User clicks on login
+23:25:06.176 [main] INFO  stepDefinition.Steps - user logged in myacct page 
+23:25:07.060 [main] INFO  stepDefinition.Steps - valid assertion 
+23:25:10.635 [main] INFO  stepDefinition.Steps - url Launched
+23:25:10.802 [main] INFO  stepDefinition.Steps - User navigates to my accountant menu
+23:25:11.647 [main] INFO  stepDefinition.Steps - User clicks on login
+23:25:12.052 [main] INFO  stepDefinition.Steps - User provides email as {string} and Password as {string}
+23:25:16.647 [main] INFO  stepDefinition.Steps - url Launched
+23:25:16.817 [main] INFO  stepDefinition.Steps - User navigates to my accountant menu
+23:25:17.692 [main] INFO  stepDefinition.Steps - User clicks on login
+23:25:18.069 [main] INFO  stepDefinition.Steps - User provides email as {string} and Password as {string}
+23:25:36.775 [main] INFO  stepDefinition.Steps - url Launched
+23:25:36.949 [main] INFO  stepDefinition.Steps - User navigates to my accountant menu
+23:25:37.770 [main] INFO  stepDefinition.Steps - User clicks on login
+23:25:38.193 [main] INFO  stepDefinition.Steps - User provides email as {string} and Password as {string}
+23:30:42.968 [main] INFO  stepDefinition.Steps - url Launched
+23:30:43.191 [main] INFO  stepDefinition.Steps - User navigates to my accountant menu
+23:30:43.945 [main] INFO  stepDefinition.Steps - User clicks on login
+23:30:45.538 [main] INFO  stepDefinition.Steps - user logged in myacct page 
+23:31:00.587 [main] INFO  stepDefinition.Steps - in valid assertion 
+23:31:04.031 [main] INFO  stepDefinition.Steps - url Launched
+23:31:04.192 [main] INFO  stepDefinition.Steps - User navigates to my accountant menu
+23:31:05.019 [main] INFO  stepDefinition.Steps - User clicks on login
+23:31:05.534 [main] INFO  stepDefinition.Steps - user logged in myacct page 
+23:31:20.607 [main] INFO  stepDefinition.Steps - in valid assertion 
+23:31:24.723 [main] INFO  stepDefinition.Steps - url Launched
+23:31:24.887 [main] INFO  stepDefinition.Steps - User navigates to my accountant menu
+23:31:25.704 [main] INFO  stepDefinition.Steps - User clicks on login
+23:31:26.225 [main] INFO  stepDefinition.Steps - user logged in myacct page 
+23:31:27.007 [main] INFO  stepDefinition.Steps - valid assertion 
+23:31:30.535 [main] INFO  stepDefinition.Steps - url Launched
+23:31:30.696 [main] INFO  stepDefinition.Steps - User navigates to my accountant menu
+23:31:31.463 [main] INFO  stepDefinition.Steps - User clicks on login
+23:31:31.832 [main] INFO  stepDefinition.Steps - User provides email as {string} and Password as {string}
+23:31:36.124 [main] INFO  stepDefinition.Steps - url Launched
+23:31:36.278 [main] INFO  stepDefinition.Steps - User navigates to my accountant menu
+23:31:37.054 [main] INFO  stepDefinition.Steps - User clicks on login
+23:31:37.402 [main] INFO  stepDefinition.Steps - User provides email as {string} and Password as {string}
+23:31:56.675 [main] INFO  stepDefinition.Steps - url Launched
+23:31:56.842 [main] INFO  stepDefinition.Steps - User navigates to my accountant menu
+23:31:57.664 [main] INFO  stepDefinition.Steps - User clicks on login
+23:31:58.055 [main] INFO  stepDefinition.Steps - User provides email as {string} and Password as {string}
+23:37:24.548 [main] INFO  stepDefinition.Steps - url Launched
+23:37:24.730 [main] INFO  stepDefinition.Steps - User navigates to my accountant menu
+23:37:25.378 [main] INFO  stepDefinition.Steps - User clicks on login
+23:37:27.563 [main] INFO  stepDefinition.Steps - user logged in myacct page 
+23:37:42.700 [main] INFO  stepDefinition.Steps - in valid assertion 
+23:37:45.772 [main] INFO  stepDefinition.Steps - url Launched
+23:37:45.882 [main] INFO  stepDefinition.Steps - User navigates to my accountant menu
+23:37:46.554 [main] INFO  stepDefinition.Steps - User clicks on login
+23:37:46.921 [main] INFO  stepDefinition.Steps - user logged in myacct page 
+23:38:02.012 [main] INFO  stepDefinition.Steps - in valid assertion 
+23:38:05.121 [main] INFO  stepDefinition.Steps - url Launched
+23:38:05.211 [main] INFO  stepDefinition.Steps - User navigates to my accountant menu
+23:38:05.849 [main] INFO  stepDefinition.Steps - User clicks on login
+23:38:06.216 [main] INFO  stepDefinition.Steps - user logged in myacct page 
+23:38:07.419 [main] INFO  stepDefinition.Steps - valid assertion 
+23:38:10.246 [main] INFO  stepDefinition.Steps - url Launched
+23:38:10.355 [main] INFO  stepDefinition.Steps - User navigates to my accountant menu
+23:38:11.022 [main] INFO  stepDefinition.Steps - User clicks on login
+23:38:11.308 [main] INFO  stepDefinition.Steps - User provides email as {string} and Password as {string}
+23:38:15.850 [main] INFO  stepDefinition.Steps - url Launched
+23:38:15.971 [main] INFO  stepDefinition.Steps - User navigates to my accountant menu
+23:38:16.590 [main] INFO  stepDefinition.Steps - User clicks on login
+23:38:16.856 [main] INFO  stepDefinition.Steps - User provides email as {string} and Password as {string}
+23:38:39.510 [main] INFO  stepDefinition.Steps - url Launched
+23:38:39.616 [main] INFO  stepDefinition.Steps - User navigates to my accountant menu
+23:38:40.230 [main] INFO  stepDefinition.Steps - User clicks on login
+23:38:40.601 [main] INFO  stepDefinition.Steps - User provides email as {string} and Password as {string}
